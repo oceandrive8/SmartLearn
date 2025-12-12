@@ -1,7 +1,7 @@
 
 # SmartLearn
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/OCDR/SmartLearn/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/oceandrive8/SmartLearn/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/OCDR/SmartLearn)](https://github.com/OCDR/SmartLearn/issues)
 [![GitHub forks](https://img.shields.io/github/forks/OCDR/SmartLearn)](https://github.com/OCDR/SmartLearn/network)
 [![GitHub stars](https://img.shields.io/github/stars/OCDR/SmartLearn)](https://github.com/OCDR/SmartLearn/stargazers)

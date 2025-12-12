@@ -89,7 +89,7 @@ git checkout -b feature/my-feature
 3. **Make your changes** and test them.
 4. **Submit a Pull Request** with a clear description of your updates.
 
-Please follow our [Code of Conduct](https://github.com/OCDR/SmartLearn/blob/main/CODE_OF_CONDUCT.md) to maintain a welcoming and respectful community.
+Please follow our [Code of Conduct](https://github.com/oceandrive8/SmartLearn/blob/main/CODE_OF_CONDUCT.md) to maintain a welcoming and respectful community.
 
 ---
 
@@ -97,13 +97,13 @@ Please follow our [Code of Conduct](https://github.com/OCDR/SmartLearn/blob/main
 
 SmartLearn is licensed under the **MIT License**. You can freely use, modify, and share the project, as long as you include the original license notice.
 
-[View License](https://github.com/OCDR/SmartLearn/blob/main/LICENSE)
+[View License](https://github.com/oceandrive8/SmartLearn/blob/main/LICENSE)
 
 ---
 
 ## Code of Conduct
 
-We follow a [Code of Conduct](https://github.com/OCDR/SmartLearn/blob/main/CODE_OF_CONDUCT.md) based on the Contributor Covenant. All participants are expected to be respectful, inclusive, and supportive.
+We follow a [Code of Conduct](https://github.com/oceandrive8/SmartLearn/blob/main/CODE_OF_CONDUCT.md) based on the Contributor Covenant. All participants are expected to be respectful, inclusive, and supportive.
 
 ---
 
@@ -133,7 +133,7 @@ We follow a [Code of Conduct](https://github.com/OCDR/SmartLearn/blob/main/CODE_
 
 ## Contact
 
-If you have questions, ideas, or suggestions, feel free to [open an issue](https://github.com/OCDR/SmartLearn/issues) or reach out via GitHub.
+If you have questions, ideas, or suggestions, feel free to [open an issue](https://github.com/oceandrive8/SmartLearn/issues) or reach out via GitHub.
 
 ```
 

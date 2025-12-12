@@ -1,8 +1,4 @@
-Absolutely! Everything I wrote above **is already in Markdown format**. You can save it as a file named `README.md` and it will render perfectly on GitHub.
 
-Here it is again, cleanly, ready to copy-paste:
-
-````markdown
 # SmartLearn
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/OCDR/SmartLearn/blob/main/LICENSE)

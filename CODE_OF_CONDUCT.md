@@ -22,7 +22,7 @@ Unacceptable behaviors include:
 
 ## Reporting
 
-If you experience or witness unacceptable behavior, please report it by contacting: **ocdr.contact@example.com**  
+If you experience or witness unacceptable behavior, please report it by contacting: **ocdr8@gmail.com**  
 
 All reports will be reviewed and investigated, and appropriate action will be taken to maintain a safe environment for everyone.
 

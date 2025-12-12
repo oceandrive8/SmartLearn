@@ -3,8 +3,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/oceandrive8/SmartLearn/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/OCDR/SmartLearn)](https://github.com/oceandrive8/SmartLearn/issues)
-[![GitHub forks](https://img.shields.io/github/forks/OCDR/SmartLearn)](https://github.com/OCDR/SmartLearn/network)
-[![GitHub stars](https://img.shields.io/github/stars/OCDR/SmartLearn)](https://github.com/OCDR/SmartLearn/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OCDR/SmartLearn)](https://github.com/oceandrive8/SmartLearn/forks)
+[![GitHub stars](https://img.shields.io/github/stars/OCDR/SmartLearn)](https://github.com/oceandrive8/SmartLearn/stargazers)
 
 **SmartLearn** is a web-based flashcard app designed to help students learn faster, retain knowledge better, and organize their study material effectively. It is simple, interactive, and accessible to everyone. SmartLearn supports **SDG 4 – Quality Education** by providing a free, easy-to-use learning tool.
 
